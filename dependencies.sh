@@ -1,0 +1,9 @@
+pip3 install numpy==1.24.3
+pip3 install pandas==1.3.4
+pip3 install matplotlib==3.5.1
+pip3 install seaborn==0.11.2
+pip3 install scikit-learn==1.3.2
+pip3 install pyod==1.0.5
+pip3 install git+https://github.com/CN-TU/pysdo
+pip3 install PyNomaly==0.3.3
+pip3 install hdbscan
